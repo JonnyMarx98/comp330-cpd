@@ -7,9 +7,10 @@ In the first week I had a few small challenges to overcome. Firstly trying to re
 
 ## Week 2 - Beginning 1st October
 During this week I continued to struggle with finding a good research question for my dissertation project. What didn't help was the amount of procrastination I was doing, most likely because I had not done much work over summer so I am not in the habbit of doing work each day. To counter my procrastination I will set myself small goals that I have to reach each day before I can have some free time to do something entertaining like playing games. I have also set my google homepage to a quote about procrastination to hopefully motivate me each time I open google chrome.
-
-
-
+.
+.
+.
+last year stuff
 
 ## Week 3 - Beginnng 8th October
 
