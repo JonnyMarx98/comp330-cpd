@@ -7,17 +7,19 @@ In the first week I had a few small challenges to overcome. Firstly trying to re
 
 ## Week 2 - Beginning 1st October
 During this week I continued to struggle with finding a good research question for my dissertation project. What didn't help was the amount of procrastination I was doing, most likely because I had not done much work over summer so I am not in the habbit of doing work each day. To counter my procrastination I will set myself small goals that I have to reach each day before I can have some free time to do something entertaining like playing games. I have also set my google homepage to a quote about procrastination to hopefully motivate me each time I open google chrome.
-.
-.
-.
-## last year stuff below
 
 ## Week 3 - Beginnng 8th October
+This week I prototyped some mechanics for my collaborative team game. This wasn't a big challenge for me, however there were a few things I didn't know so I had to look online for help. In future I would like to be able to solve problems without needing to look online for help, to improve my knowledge of programming for unreal I will spend half an hour a day practicing it. 
 
 
+.
+.
+.
 
 
-This week my team decided that we will most likely be using unity to develop our game. Trying to learn scripting in C# has been the biggest challenge for me this week, I plan to practice using C# in unity at least 5 hours hours a week. I will watch video tutorials as well as implement to the team game to practice.
+## last year stuff below
+
+
 
 ## Week 4 - Beginning 15th October
 
@@ -59,7 +61,7 @@ During this week I spent a lot of time working on my hololens project, I was hav
 
 This week Brian showed us how to create a class for game objects in our OpenGL projects, this was very helpful as it allowed us to easily render multiple objects in the scene. However it also meant I had to put change the C++ code that allowed bullet physics to work with my model to work with the game object class. I spent some time attempting to do this but because I couldn't do it I decided to postpone it until I had finished my other projects which were due before this. I think with some more C++ practice I will be able to solve small problems like this fairly easily. I can get this practice by working on my OpenGL project over christmas and also try some C++ challenges on hackerrank.com.
 
-## Week 12 - Beginnimg 11th December
+## Week 12 - Beginnimg 10th December
 
 
 At the beggining of this week I was finishing my hololens project for the peer review, over the weekend I was having some issues with spacial mapping and scale but with some time I managed to sort it out in time. I got a lot of positive feedback about my project which I was very happy with, however I had to remove a song that I had in the game due to copyright issues. I also started working on a camera class for my OpenGL project and couldn't quite figure out how to get it working so I left it to do over christmas. This is something I do far too often, I will start something, get stuck and then stop working on it because I don't want to try solve the problem then. I've set myself a new goal of finishing everything I start, this will mean I won't stop working on something before I finished what I planned to have done.
