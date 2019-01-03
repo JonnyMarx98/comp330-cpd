@@ -32,18 +32,16 @@ After completing the Udemy course over the weekend, I started to develop a simpl
 
 This week was reading week, during this week I struggled a lot with procrastination and time managment. I didn't do as much work as I planned to do during this week, however I did make a decent amount of progress towards my dissertation and Javascript game. I struggled the most with the dissertation, I found it really hard to focus on reading through lots of papers and picking out the useful information. Since I only had 500 words prior to reading week I wanted to use this time to write a large chunk of it, I planned on bringing my word count up to 2500, however I only managed to get to around 1200. I spent the last few days of reading week working on my Javascript game and found it much easier to focus since it was a lot more enjoyable. I made quite good progresss with it. The key challenges this week were time management and procrastination. To avoid procrastination I will wake up earlier and do my work first thing in the morning, this means there will be less distractions and I will hopefully be less tempted to do something else. To improve time management I will start a weekly journal in which I plan out which days I will work on each task, and give myself a goal time to complete it. 
 
+## Week 7 - Beginning 5th November
 
 
+The biggest challenge for me this week was definetely the dissertation presentation. This was the longest presentation I have had to do at university so far, I was extremely nervous for it. I had to present my findings so far, what I plan to write about, and what my method will be. I had not done as much research as I would have liked, so I was worried my presentation would not be good at all. Despite previously planning on practicing it to my friends or family I only practiced it to myself at home. I believe practicing it to myself helped a little bit but it would have been better to practice it in front of someone. Another challenge this week was getting properly started on my NES de-make, I had not done much for it at all because I kept putting it off. This was very stressful because I needed to do a lot of practice for it in a short amount of time. To catch up on the work I didn't do I am going to finish wacthing all the live code videos before next week and work on it everyday next week. 
 
 ## last year stuff below
 
 
 
 
-## Week 7 - Beginning 5th November
-
-
-I got very stressed this week as there were three essays due next week, this happened to me a few times last year especially with essays. I tend to leave the majority of essay work until the week before it is due and then I get stressed out because I worry I won't be able to get it all done in time to a good standard. I ended up staying up all night to finish the last of the three essays which left me being extremely tired for lectures and studio practice the next day. This is something I want to avoid in future, I will do this by working on essays in chunks rather than all in the week before the deadline. 
 
 ## Week 8 - Beginning 12th November
 
