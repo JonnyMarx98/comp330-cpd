@@ -3,36 +3,42 @@
 # Term One
 
 ## Week 1 - Beginning 24th September
+
+
 In the first week I had a few small challenges to overcome. Firstly trying to refine my dissertation research question and write up a short proposal was quite hard as I wasn't sure what my question should be. It wasn't too hard to find academic papers about my topic, but it was hard to find gaps in literature that I could fill and base my reaserch on. Another problem I had this week was getting back into using unreal and blueprints, this was a small challenge since I hadn't used unreal much for a long time. By the end of the week I felt comfortable with the engine again. 
 
 ## Week 2 - Beginning 1st October
+
+
 During this week I continued to struggle with finding a good research question for my dissertation project. What didn't help was the amount of procrastination I was doing, most likely because I had not done much work over summer so I am not in the habbit of doing work each day. To counter my procrastination I will set myself small goals that I have to reach each day before I can have some free time to do something entertaining like playing games. I have also set my google homepage to a quote about procrastination to hopefully motivate me each time I open google chrome.
 
 ## Week 3 - Beginnng 8th October
-This week I prototyped some mechanics for my collaborative team game. This wasn't a big challenge for me, however there were a few things I didn't know so I had to look online for help. In future I would like to be able to solve problems without needing to look online for help, to improve my knowledge of programming for unreal I will spend half an hour a day practicing it. 
+
+
+This week I prototyped some mechanics for my collaborative team game. This wasn't a big challenge for me, however there were a few things I didn't know so I had to look online for help. In future I would like to be able to solve problems without needing to look online for help, to improve my knowledge of programming for unreal I will spend half an hour a day practicing it. Another challenge this week was presenting my NES de-make, I have never been confident presenting even with a very short presentation like this. To improve on this I will practice presenting to some friends and family before my next presentation and ask them for some feedback. 
 
 ## Week 4 - Beginning 15th October
-This week we started using Javascript to develop an application for our professional website assignment. As this was a language I had never used before it was hard to understand the example code that we had been given, which meant I needed to do some practice before I start developing the final application. To practice Javascript I complete a short course on Udemy [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/code-your-first-game/)
 
-This week it was fairly challenging to come up with an interesting essay topic for the ethics essay, I spent quite a lot of time researching ethical issues in the games industry and eventually had an idea of what to base my essay on. I am still struggling with scripting in unity, I plan to spend more time working on the game and asking the BA programmer in my team when I get stuck. I was also focused on the evualtion of the usability of my previous year game for the peer review next week, this wasn't too challenging however it was fairly time consumming to get a good amount of participants to test the game.
-.
-.
-.
+
+This week we started using Javascript to develop an application for our professional website assignment. As this was a language I had never used before it was hard to understand the example code that we had been given, which meant I needed to do some practice before I start developing the final application. To practice Javascript I will complete a short course on Udemy [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/code-your-first-game/), this will give me a basic understanding of javascript. From there I will then start to develop my game and learn more during this process. Ed also introduced us to 6502 programming this week and it looks like it will take a lot of practice in order to develop a decent NES de-make. At the moment I only understand a little bit of it so I will watch Ed's live code videos to gain a better understanding of how 6502 works. 
+
+## Week 5 - Beginning 22nd October
+
+
+After completing the Udemy course over the weekend, I started to develop a simple game to show at the peer review at the end of the week. I now have a good understanding of how Javascript works, however my code is not nearly as comprehensive and well-structered as the example code gareth gave us, so I have a lot of room for improvement. Hopefully I can get some useful feedback from my peers at the peer-review. I have been struggling a lot with get anything done for my dissertation, I find it very hard to focus on it and read papers, especially when the deadline is far away because I always put it off for another day. This has always been a struggle for me, especially for any research and written based projects. In an attempt to improve this I will read a small amount each day, this is better than not doing anything, and I plan to increase how much I read each day as the deadline comes closer. 
+
+## Week 6 - Beginning 29th October
+
+
+This week was reading week, during this week I struggled a lot with procrastination and time managment. I didn't do as much work as I planned to do during this week, however I did make a decent amount of progress towards my dissertation and Javascript game. I struggled the most with the dissertation, I found it really hard to focus on reading through lots of papers and picking out the useful information. Since I only had 500 words prior to reading week I wanted to use this time to write a large chunk of it, I planned on bringing my word count up to 2500, however I only managed to get to around 1200. I spent the last few days of reading week working on my Javascript game and found it much easier to focus since it was a lot more enjoyable. I made quite good progresss with it. The key challenges this week were time management and procrastination. To avoid procrastination I will wake up earlier and do my work first thing in the morning, this means there will be less distractions and I will hopefully be less tempted to do something else. To improve time management I will start a weekly journal in which I plan out which days I will work on each task, and give myself a goal time to complete it. 
+
+
 
 
 ## last year stuff below
 
 
 
-## Week 5 - Beginning 22nd October
-
-
-This week was focused on finsihing the usability report, this was not particularly challenging but it took some time to analyse all the data i had collected. We also moved onto model loading and textures in OpenGL which I am still finding difficult to fully understand, I understand it on a basic level, however I struggle when It comes to actually implementing it in C++. After watching brians live code video I feel I am starting to become more familiar with it but definetly still need more practice. I plan to work on my OpenGL project for 5-10 hours each week, especially as it is a 90% the comp220 module. 
-
-## Week 6 - Beginning 29th October
-
-
-This was studio practice week, however I spent the majority of this week catching up with the three essays that were due within a few weeks. I found it challenging to find motivation to work on my collaborative game, this Is something I need to improve. I shouldn't rely on motivation to work on things, I will overcome this by working on my team game or any other module whether I am motivated or not. This comes back to bad time management which Is something I am always trying to improve by setting myself goals each week for each of my differnt modules and assignments.
 
 ## Week 7 - Beginning 5th November
 
