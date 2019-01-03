@@ -42,19 +42,14 @@ The biggest challenge for me this week was definetely the dissertation presentat
 
 Last week I submitted my Javascript game for the professional website assignment, I was fairly happy with it, however I still believe it could have been a bit better if I had put some more time into it. This week we had a dissertation peer review, this pushed me to work harder on my dissertation and get some work done. I managed to write over 1000 words this week however it felt a bit rushed as I wrote most of that the morning before the peer review. Because I wanted to have something decent for the peer review I pushed NES asside this week and only worked on it a little bit. I should have spread my work between the two assignments more evenly, as now I will have a lot more NES work to do next week. To improve my management of what work to do I will make the weekly journal I planned to make a couple weeks ago. I will make this on google sheets and set the page as my google chrome home page so that I see it everytime I open google chrome. I haven't mentioned the team game progress in a while, I had been slacking a bit in the last few weeks because I was spending more time on the other assignments because the deadlines were coming up. However the game is progressing well and it is the best team game I have worked on so far. 
 
-
-## last year stuff below
-
-
-
-
-
-
-
 ## Week 9 - Beginning 19th November
 
 
-This week the majority of my team agreed on making a new game because we were struggling to develop the previous game due to motivation issues and not really knowing how to make the game enjoyable. I was very happy with this as I wasn't enjoying developing the previous game and the new one sounded a lot more fun. However we were then faced with the challenge of creating a game with less than a month until the alpha hand in. This tested my ability to program in C# but also improved it, I found myself stuck trying to solve the same problem for hours sometimes and not asking for help. This is one of my flaws, I shy away from asking for help and tend to try and figure stuff out by myself, which can sometimes be okay, but a lot of the time it would be highly beneficial to me if I asked for some help. To overcome this I plan to ask for help whenever I can instead of wasting time trying to solve it by myself.
+I spent the majority of this week working on my NES de-make as the deadline was on monday next week. At the start of the week I was still struggling a lot and it was taking me a long time to get anything working, however after many hours of struggle I eventually started to make quite a lot of progress. I actually made a better game than I expected to be able to make. I implemented most of the mechanics I proposed in my presentation earlier in the term, including climbing, ranged and melee combat. Despite making good progress with my NES de-make I was very stressed this week because I still had a lot of dissertation work to do and felt that was very far behind. Next term I plan to start working on the big projects much earlier on to decrease my work load towards the end of term as this is when I usually get most stressed. I will use the my time managemnent journal to plan out how much time to spend on each assignment. 
+
+
+## last year stuff below
+
 
 ## Week 10 - Beginning 26th November
 
