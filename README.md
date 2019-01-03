@@ -37,16 +37,19 @@ This week was reading week, during this week I struggled a lot with procrastinat
 
 The biggest challenge for me this week was definetely the dissertation presentation. This was the longest presentation I have had to do at university so far, I was extremely nervous for it. I had to present my findings so far, what I plan to write about, and what my method will be. I had not done as much research as I would have liked, so I was worried my presentation would not be good at all. Despite previously planning on practicing it to my friends or family I only practiced it to myself at home. I believe practicing it to myself helped a little bit but it would have been better to practice it in front of someone. Another challenge this week was getting properly started on my NES de-make, I had not done much for it at all because I kept putting it off. This was very stressful because I needed to do a lot of practice for it in a short amount of time. To catch up on the work I didn't do I am going to finish wacthing all the live code videos before next week and work on it everyday next week. 
 
+## Week 8 - Beginning 12th November
+
+
+Last week I submitted my Javascript game for the professional website assignment, I was fairly happy with it, however I still believe it could have been a bit better if I had put some more time into it. This week we had a dissertation peer review, this pushed me to work harder on my dissertation and get some work done. I managed to write over 1000 words this week however it felt a bit rushed as I wrote most of that the morning before the peer review. Because I wanted to have something decent for the peer review I pushed NES asside this week and only worked on it a little bit. I should have spread my work between the two assignments more evenly, as now I will have a lot more NES work to do next week. To improve my management of what work to do I will make the weekly journal I planned to make a couple weeks ago. I will make this on google sheets and set the page as my google chrome home page so that I see it everytime I open google chrome. I haven't mentioned the team game progress in a while, I had been slacking a bit in the last few weeks because I was spending more time on the other assignments because the deadlines were coming up. However the game is progressing well and it is the best team game I have worked on so far. 
+
+
 ## last year stuff below
 
 
 
 
 
-## Week 8 - Beginning 12th November
 
-
-I felt very relived this week after submitting my essays, however I then realised that because I had been spending so much time on them for the last couple weeks that I had not been working on my other assignments as much as I should have. I began planning out what I was going to do for my AR/VR task at the start of this week and didn't really know how I would develop it. After the comp210 workshop I watched the pluralsight tutorial on hololens which was very helpful and really kickstarted the development of my prototpye. This is a common problem for me, I think something will be easy until I try to do it then I get stuck. To overcome this I will try not to underestimate challenges and use tutorials to get me started with things I don't quite understand, such as developing for hololens.
 
 ## Week 9 - Beginning 19th November
 
