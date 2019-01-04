@@ -47,14 +47,17 @@ Last week I submitted my Javascript game for the professional website assignment
 
 I spent the majority of this week working on my NES de-make as the deadline was on monday next week. At the start of the week I was still struggling a lot and it was taking me a long time to get anything working, however after many hours of struggle I eventually started to make quite a lot of progress. I actually made a better game than I expected to be able to make. I implemented most of the mechanics I proposed in my presentation earlier in the term, including climbing, ranged and melee combat. Despite making good progress with my NES de-make I was very stressed this week because I still had a lot of dissertation work to do and felt that was very far behind. Next term I plan to start working on the big projects much earlier on to decrease my work load towards the end of term as this is when I usually get most stressed. I will use the my time managemnent journal to plan out how much time to spend on each assignment. 
 
+## Week 10 - Beginning 26th November
+
+
+
+
+During this week I spent a lot of time working on my hololens project, I was having problems deploying my game to the hololens which was making it harder to develop because I couldn't test the game. After asking Al for some help I managed to get it working and I could test the game. I'm glad I asked for help rather than spending hours trying to figure it out by myself. A big challenge I faced was implementing a random item spawner for my collaborative game, I couldn't figure out how to ensure that an item wouldn't spawn in a used spawn point. I didn't ask for help for this and it took me a long time to solve this problem. I believe if I was more proficient at C# it would not have taken me so long so I plan to do a couple hours of C# practice a at least two days each week. 
 
 ## last year stuff below
 
 
-## Week 10 - Beginning 26th November
 
-
-During this week I spent a lot of time working on my hololens project, I was having problems deploying my game to the hololens which was making it harder to develop because I couldn't test the game. After asking Al for some help I managed to get it working and I could test the game. I'm glad I asked for help rather than spending hours trying to figure it out by myself. A big challenge I faced was implementing a random item spawner for my collaborative game, I couldn't figure out how to ensure that an item wouldn't spawn in a used spawn point. I didn't ask for help for this and it took me a long time to solve this problem. I believe if I was more proficient at C# it would not have taken me so long so I plan to do a couple hours of C# practice a at least two days each week. 
 
 ## Week 11 - Beginning 3rd December
 
