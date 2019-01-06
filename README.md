@@ -50,91 +50,19 @@ I spent the majority of this week working on my NES de-make as the deadline was 
 ## Week 10 - Beginning 26th November
 
 
-
-
-During this week I spent a lot of time working on my hololens project, I was having problems deploying my game to the hololens which was making it harder to develop because I couldn't test the game. After asking Al for some help I managed to get it working and I could test the game. I'm glad I asked for help rather than spending hours trying to figure it out by myself. A big challenge I faced was implementing a random item spawner for my collaborative game, I couldn't figure out how to ensure that an item wouldn't spawn in a used spawn point. I didn't ask for help for this and it took me a long time to solve this problem. I believe if I was more proficient at C# it would not have taken me so long so I plan to do a couple hours of C# practice a at least two days each week. 
-
-## last year stuff below
-
-
-
+After spending the majority of last week working on my NES de-make for the viva I had a ton of work to do for my dissertation. This is exactly what I didn't want to happen, I was hoping that this term I would have got my work done earlier and used these final weeks before the deadline to clean up my work and make sure it is perfect. I still had a lot of reading to do and a lot to write about, as well as still being a little bit unsure on what my methodology will actually be. This was probably the most stressful part of the week, I was told that I had overscoped on my original idea to create 2 escape rooms, one you can only complete with a hololens and one without. I struggled a lot when trying to think about what I actually want to test and measure, eventually I chose to compare learning experience with and without a hololens for one puzzle, however this meant I needed to do even more reading into learning and education with augmented reality. I feel that this also comes down to time management, just like some of the other challenges I have had this term, so to improve this I will use my time management journal next term. 
 
 ## Week 11 - Beginning 3rd December
 
 
-This week Brian showed us how to create a class for game objects in our OpenGL projects, this was very helpful as it allowed us to easily render multiple objects in the scene. However it also meant I had to put change the C++ code that allowed bullet physics to work with my model to work with the game object class. I spent some time attempting to do this but because I couldn't do it I decided to postpone it until I had finished my other projects which were due before this. I think with some more C++ practice I will be able to solve small problems like this fairly easily. I can get this practice by working on my OpenGL project over christmas and also try some C++ challenges on hackerrank.com.
+I was feeling a lot less stressed this week since a lot of the big deadlines were out of the way. I spent a lot of this week working on the team game, trying to catch up on time that I had spent in the last few weeks on other assignments. I didn't have any big challenges this week, other than a few programming problems while working on the team game, but it was nothing I couldn't figure out within an hour or so. I would say my motivation to start working on my dissertation artefact was low, which was probably the biggest struggle this week as I need to start it sooner rather than later. I think the stress from the last few weeks put me off doing any work that I think might be stressful. To overcome this I should stop putting off tasks I don't want to do by just doing a small amount rather than nothing, because a start is better than nothing and provbides some momentum. 
 
 ## Week 12 - Beginnimg 10th December
 
 
-At the beggining of this week I was finishing my hololens project for the peer review, over the weekend I was having some issues with spacial mapping and scale but with some time I managed to sort it out in time. I got a lot of positive feedback about my project which I was very happy with, however I had to remove a song that I had in the game due to copyright issues. I also started working on a camera class for my OpenGL project and couldn't quite figure out how to get it working so I left it to do over christmas. This is something I do far too often, I will start something, get stuck and then stop working on it because I don't want to try solve the problem then. I've set myself a new goal of finishing everything I start, this will mean I won't stop working on something before I finished what I planned to have done.
+The last week before the christmas break, I had finally started working on my artefact this week and made some progress with that. I was happy to add some final touches to the team game and submit it. I am really happy with what our team has created this year, I believe it is a really fun game that has a lot of potential next term and I'm excited to work on it and see how it improves and develops next term. Played some beat saber to celebrate the end of term (almost still got 2 things to submit in January). My biggest challenge this week was trying to remember how to develop for the hololens and how to use the holotoolkit. This can easily be overcome with some practice and looking back at my work from last year. 
+
+
 
 ## Summary 
 My career goals haven't changed since last year, I still aspire to being a successful game developer in the future whether that is through starting a small indie development team, working in a large company and making AAA games or even freelancing. Now that I am half way through this degree I feel that I have learnt a huge amount about game development and believe that I have developed some good programming/scripting skills through making games and working on various projects involving programming. Five key challenges I have faced this term were communication, asking for help, problem solving, programming proficiency, and dedication. To overcome commuication I will make sure that If I have an idea or opinion I won't keep it to myself I will talk to my team about it, in addition to this if I need some help I will ask one of my teams programmers for help to improve my asking for help. To improve my programming proficiency I will complete challenges or hackerrank.com and work on my programming projects more often, this will also improve my problem solving skills. To overcome my lack of dedication I will reward myself when I complete work without delaying it and I will think about how I will benefit from doing the task earlier rather than later.
-
-# Term Two
-
-## Week 1 - Beginning 28th January
-
-
-First week back, there wasn't many big challenges, although I do feel like I could have done more work on my collaborative game this week. I did very little work over the 3 weeks prior to teaching which didn't help me get back into working regularly. In addition to this I found it hard to know what to implement to our game, probably due to the lack of good sprint planning.
-
-## Week 2 - Beginning 4th February
-
-
-I started to do some more work on the team game this week but probably still not as much as I should be doing. I've been enjoying the modules this term so far, particularly AI. I'm excited to learn more about advanced AI and hope to implement some into my team game. Didn't have any significant challenges this week.
-
-## Week 3 - Beginning 11th February
-
-
-This week I did some more work on the team game, AI in particular. I had some challenges while implementing the basic zombie AI but after I spent enough time working on it I managed to fix most of the issues. The lectures were again very interseting this week, learning a lot about distributed systems, AI, and business.
-
-## Week 4 - Beginning 18th February
-
-
-This week I found out that I had an assignment due the following week so I spent the whole week focusing on that. It was very challenging trying to understand how to get the threading working on both the clients and the server in order to send messages to all the clients at the right time. I made a bit of progress each day and eventually had a fairly decent MUD working with both local and global chat implemented. Another challenge was trying not to neglect working on the team game this week, but found it hard to focus on working on it since I was more focused on finishing the MUD.
-
-## Week 5 - Beginning 25th February
-
-
-I spent a lot of time trying to get behaviour trees to work for my game component AI this week. There wasn't much online help so it was very hard to figure out how everything in the behaviour machine plugin worked. In the end I couldn't get it to do what I wanted it to do so I continued working on it just using scripting to be ready for the peer review next week.
-
-## Week 6 - Beginning 4th March
-
-
-During reading week I didn't do as much work as I could have, but I did at least do some. I started working on some of my upcoming research journals and essays, I should have also worked on the team game this week but didn't do that. I found my self procrastinating a lot this week. This has always been a problem of mine, I plan to start a self improvement journal in which I will set my self some goals at the start of each day and tick them off, this way I can see my progress and I will always know what to work on. 
-
-## Week 7 - Beginning 11th February
-
-
-This week we had to present our business cases, I was fairly nervous about this however it wasn't as bad as I expected. After presenting gareth gave me some good feedback that helped me prepare my report over the weekend for the peer review. I had not started the report yet so I spent a lot of time over this weekend working on it, which was my biggest challenge this week.
-
-## Week 8 - Beginning 18th March
-
-
-This week I got pretty stressed trying to finsihing the research journals and business case before the deadlines during this week. The most challenging one was the business case since it was so long, but I worked together with some friends and we got it done by the deadline. Next time I would like to have the work done the week before so I don't stress about it so much. 
-
-## Week 9 - Beginning 8th April
-
-
-After coming back from my easter break not having done any work over easter, I was hit with the realisation that I still have quite a lot of work to do and not that long left to do it. Because I hadn't worked on the team game over easter I was quite worried that my team would not be happy with me, which probably just made it worse because it made me not want to confront them. I didn't do much work this week, this was due to stress, not knowing where to start or what to work on and procrastination. All of these are things I need to improve. 
-
-## Week 10 - Beginning 15th April
-
-
-This week I decided to try getting the behaviour trees to work again, after hours of struggling I finally got something, It was the first step. I left it there for now planning to go back to it at a later date to finish it off. I then also began working on my microRTS bot but didn't really understand it and didn't know where to start with it. 
-
-## Week 11 - Beginning 22nd April
-
-
-I came back to the game AI this week and continued trying to get the behaviour trees doing what I wanted them to do but I just couldn't figure it out so I ended up polishing what I already had with the scripts and submitting that. The peer review for the microRTS bots was posponed a week and instead Ed showed us how to get started with our bots. This was very helpful and by the end of the week I had I pretty good bot in the top 5 on the class leaderboard.
-
-## Week 12 Beginning 29th April
-
-
-With the AI submitted the one big assignment remaining was the client server task. This has been the most challenging assignment this term, without the help from gareth I would still be stuck not knowing how to put a database into my program. I came into the studio most days this week and worked on this client server task, struggling each day and getting stressed about countless errors. After gareth showed us how to implement SQL into the basic SUD program I figured it all out and got it working with my MUD.
-
-## Summary 
-
-My career goals remain the same, I would like to be a game developer, I am still unsure what exactly I what to do within the industry however. After doing the business case report I would like to experiment with both self publishing and taking publisher deals. I would like to work in an indie team and would also like to work in a AAA company. Over the last term I think my programming knowledge has improved quite a lot, I am now much more confident and now know C sharp and Java fairly well. I'm glad that I have programmed in various different languages as it broadens my programming competency. Five key challenges I have faced this term were, team work, motivation, productiveness, assignment time management, and prioritising. To overcome not working very well as a team I will get to know my team as early as possible next year as I find it much easier to communicate with people I know. To improve my motivation I am going to create a self improvement/gratitude journal to track my work and make me feel better and hopefully more motivated to do work. This journal should also help me be more productive because I will set myself tasks to complete each day so I won't spend to much time not knowing what to work on. To improve assignment time management I will look at the module guides and make sure I work on each assignment for the right amount of time by tracking my hours on a spreadsheet. I will overcome my prioritising problem by using the spreadsheet for time management to set my goals for each day so I do the right amount of work for each assignment.
-
