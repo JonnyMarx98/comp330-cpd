@@ -87,9 +87,10 @@ This week was reading week, during this week I spent some time bug fixing code i
 This week was the week of show and tell so there was a lot of pressue to finish some things in the team game before presenting it. One especially challenging feature to implement was a third weapon in the game. The game currently had two available weapon slots, however for the show and tell the team wanted a third weapon slot. This took some time and some failed attempts before eventually getting it to work properly. To improve my ability to change existing code I will continue working on the game frequently to practice.  
 
 ## Week 8 - Beginning 18th March
-After show and tell was complete I came to realise that some other deadlines were coming up soon. The closest deadline 
+After show and tell was complete I came to realise that some other deadlines were coming up soon. The closest deadline was the market evaluation assignement, which included the proffesional practice report. The biggest challenge this week was thinking of some questions to ask industry professionals, as well as finding professionals to contact. This would not have been as much of a problem if I had started this assignment earlier. To improve on this I will plan out what work I need to achieve each week in order to keep on top of all my work and make sure I'm not behind on things.   
 
 ## Week 9 - Beginning 25th March
+This week was the deadline for the market evaluation assignment, I had not done much of the work for it prior to this week so getting all of it done in time was the challenge for this  
 
 ## Week 10 - Beginning 1st April
 
