@@ -66,16 +66,33 @@ The last week before the christmas break, I had finally started working on my ar
 # Term two
 
 ## Week 1 - Beginning 28th January
+First week back from easter we were introduced to the algorithms and optimisation module. For the majority of this week I was in the studio working on the collaborative team game. There were no major struggles or challenges this week.
+
 ## Week 2 - Beginning 4th February
+During this week we began learning abour optimisation in the programming workshops with Gareth. I found this quite challenging since it was C++ which is a language I'm not very confident with. To improve on this I will spend a few hours per week practicing C++ on codewars.com .
+
 ## Week 3 - Beginning 11th February
+This week we continued working on the C++ optimisations in the workshop, this was still quite challenging for me and needed help from my peers to understand what to do. I also had some trouble working on the team game this week, I needed to implement an X-ray feauture to the game. This took me some time to figure out and was the biggest challenge of this week. 
+
 ## Week 4 - Beginning 18th February
+This week I wanted to impprove the X-ray feature that I created last week. This was just as hard as it was to implement the original version of the X-ray. I came accross a lot of problems that I struggled to fix, I had to search online for help to fix some of these problems. Eventually I got the X-ray to work how I wanted it to. I am not sure what steps I can take to improve this and avoid running into these kind of problems in the future, other than by just practice with Unreal. 
+
 ## Week 5 - Beginning 25th February
+During this week I continued to work on the team game for the majority of the week. At this time the my main priority was improving the team game, probably becasue I had no deadlines coming up anytime soon. The main tasks I had for the game this week were adding aiming and health pick ups. 
+
+
 ## Week 6 - Beginning 4th March
+
 ## Week 7 - Beginning 11th March
+
 ## Week 8 - Beginning 18th March
+
 ## Week 9 - Beginning 25th March
+
 ## Week 10 - Beginning 1st April
+
 ## Week 11 - Beginning 8th April
+
 ## Week 12 - Beginning 29th April
 
 
