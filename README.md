@@ -63,6 +63,24 @@ I was feeling a lot less stressed this week since a lot of the big deadlines wer
 The last week before the christmas break, I had finally started working on my artefact this week and made some progress with that. I was happy to add some final touches to the team game and submit it. I am really happy with what our team has created this year, I believe it is a really fun game that has a lot of potential next term and I'm excited to work on it and see how it improves and develops next term. Played some beat saber to celebrate the end of term (almost still got 2 things to submit in January). My biggest challenge this week was trying to remember how to develop for the hololens and how to use the holotoolkit. This can easily be overcome with some practice and looking back at my work from last year. 
 
 
+# Term two
+
+## Week 1 - Beginning 28th January
+## Week 2 - Beginning 4th February
+## Week 3 - Beginning 11th February
+## Week 4 - Beginning 18th February
+## Week 5 - Beginning 25th February
+## Week 6 - Beginning 4th March
+## Week 7 - Beginning 11th March
+## Week 8 - Beginning 18th March
+## Week 9 - Beginning 25th March
+## Week 10 - Beginning 1st April
+## Week 11 - Beginning 8th April
+## Week 12 - Beginning 29th April
+
+
+
+
 
 ## Summary 
 
