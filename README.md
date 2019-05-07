@@ -78,10 +78,10 @@ This week we continued working on the C++ optimisations in the workshop, this wa
 This week I wanted to impprove the X-ray feature that I created last week. This was just as hard as it was to implement the original version of the X-ray. I came accross a lot of problems that I struggled to fix, I had to search online for help to fix some of these problems. Eventually I got the X-ray to work how I wanted it to. I am not sure what steps I can take to improve this and avoid running into these kind of problems in the future, other than by just practice with Unreal. 
 
 ## Week 5 - Beginning 25th February
-During this week I continued to work on the team game for the majority of the week. At this time the my main priority was improving the team game, probably becasue I had no deadlines coming up anytime soon. The main tasks I had for the game this week were adding aiming and health pick ups. 
-
+During this week I continued to work on the team game for the majority of the week. At this time the my main priority was improving the team game, probably becasue I had no deadlines coming up anytime soon. The main tasks I had for the game this week were adding aiming and health pick ups. This was not too challenging. There was no big challenges this week. 
 
 ## Week 6 - Beginning 4th March
+
 
 ## Week 7 - Beginning 11th March
 
