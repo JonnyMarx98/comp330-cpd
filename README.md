@@ -90,9 +90,10 @@ This week was the week of show and tell so there was a lot of pressue to finish 
 After show and tell was complete I came to realise that some other deadlines were coming up soon. The closest deadline was the market evaluation assignement, which included the proffesional practice report. The biggest challenge this week was thinking of some questions to ask industry professionals, as well as finding professionals to contact. This would not have been as much of a problem if I had started this assignment earlier. To improve on this I will plan out what work I need to achieve each week in order to keep on top of all my work and make sure I'm not behind on things.   
 
 ## Week 9 - Beginning 25th March
-This week was the deadline for the market evaluation assignment, I had not done much of the work for it prior to this week so getting all of it done in time was the challenge for this  
+This week was the deadline for the market evaluation assignment, I had not done much of the work for it prior to this week so getting all of it done in time was the challenge for this week. The most challenging part of the assignment was the professional pract report. I have never been very good at writing so writing a 1500 word report was a touch task for me. To improve my writing skills I plan to start work earlier next time and create drafts. I can then send these drafts to my tutors for feedback to improve my writing. 
 
 ## Week 10 - Beginning 1st April
+
 
 ## Week 11 - Beginning 8th April
 
