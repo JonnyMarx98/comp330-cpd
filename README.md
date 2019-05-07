@@ -96,12 +96,10 @@ This week was the deadline for the market evaluation assignment, I had not done 
 After submitting the market evaluation last week the pressure of getting the rest of my assignments done in time suddenly increased. I began to panic quite a bit since I had left everything so late. The next assignment due in was the optimisation task, so I decided to start working on this first. Although the optimisation work I did this week was challenge, I think the real challenge here is time managment. To improve this I will use a planner to plan my weeks out, to get my work done more effectively. 
 
 ## Week 11 - Beginning 8th April
+During this week I spent a lot of time finishing my research artefact for my disertation. I needed to finish this so I could start collecting data for my study. I had definetly left this work later than I should have. I managed to find 16 participants to take part in my study, which was much less than I had planned. For my artefact I needed to deploy my application onto a HoloLens, I had a lot of problems with this and spent a lot of time trying to figure out why it was not working. This was my biggest challenge this week, to improve on this I will follow the steps online for deploying to HoloLens. 
 
 ## Week 12 - Beginning 29th April
-
-
-
-
+For the first half of this week I was finishing my porting assignment. I had many issues while attempting to port my game to android, including not having a data transfer cable so I had to buy a new one for the assignment. I spent many hours figuring out how to fix errors I was receiving while trying to deploy to my android device. This was my challenge for this week. To improve on this I will continue programming and coming accross errors and learning the best way to deal with them.
 
 ## Summary 
 
