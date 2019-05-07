@@ -81,12 +81,13 @@ This week I wanted to impprove the X-ray feature that I created last week. This 
 During this week I continued to work on the team game for the majority of the week. At this time the my main priority was improving the team game, probably becasue I had no deadlines coming up anytime soon. The main tasks I had for the game this week were adding aiming and health pick ups. This was not too challenging. There was no big challenges this week. 
 
 ## Week 6 - Beginning 4th March
-This week was reading week, during this week I spent some time bug fixing code in the team game. This was challenging and very tedious as there was quite a few bugs that needed to be fixed and some of them took a long time to fix. To improve my bug fixing skills I am going to go into the studio and work on the game more often so I can practice using Unreal and blueprints more.    
+This week was reading week, during this week I spent some time bug fixing code in the team game. This was challenging and very tedious as there was quite a few bugs that needed to be fixed and some of them took a long time to fix. To improve my bug fixing skills I am going to go into the studio and work on the game more often so I can practice using Unreal and blueprints more.
 
 ## Week 7 - Beginning 11th March
-
+This week was the week of show and tell so there was a lot of pressue to finish some things in the team game before presenting it. One especially challenging feature to implement was a third weapon in the game. The game currently had two available weapon slots, however for the show and tell the team wanted a third weapon slot. This took some time and some failed attempts before eventually getting it to work properly. To improve my ability to change existing code I will continue working on the game frequently to practice.  
 
 ## Week 8 - Beginning 18th March
+After show and tell was complete I came to realise that some other deadlines were coming up soon. The closest deadline 
 
 ## Week 9 - Beginning 25th March
 
