@@ -93,7 +93,7 @@ After show and tell was complete I came to realise that some other deadlines wer
 This week was the deadline for the market evaluation assignment, I had not done much of the work for it prior to this week so getting all of it done in time was the challenge for this week. The most challenging part of the assignment was the professional pract report. I have never been very good at writing so writing a 1500 word report was a touch task for me. To improve my writing skills I plan to start work earlier next time and create drafts. I can then send these drafts to my tutors for feedback to improve my writing. 
 
 ## Week 10 - Beginning 1st April
-
+After submitting the market evaluation last week the pressure of getting the rest of my assignments done in time suddenly increased. I began to panic quite a bit since I had left everything so late. The next assignment due in was the optimisation task, so I decided to start working on this first. Although the optimisation work I did this week was challenge, I think the real challenge here is time managment. To improve this I will use a planner to plan my weeks out, to get my work done more effectively. 
 
 ## Week 11 - Beginning 8th April
 
